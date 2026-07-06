@@ -4,11 +4,23 @@ MockMate AI is a full-stack, enterprise-grade application designed to simulate r
 
 ## Screenshots
 
-### Login & Registration
-![Login Interface](assets/screenshots/SignIn.png)
+### Sign In
+![Sign In Page](assets/screenshots/SignIn.png)
+
+### Registration
+![Registration Page](assets/screenshots/Login.png)
 
 ### Candidate Dashboard
 ![Candidate Dashboard](assets/screenshots/Dashboard.png)
+
+### Setup Interview Options
+![Setup Interview Options](assets/screenshots/Screenshot%202026-07-06%20at%201.54.27%20PM.png)
+
+### Select Level and Role
+![Select Level and Role](assets/screenshots/Screenshot%202026-07-06%20at%201.54.45%20PM.png)
+
+### Start Interview Session
+![Start Interview Session](assets/screenshots/Screenshot%202026-07-06%20at%201.54.53%20PM.png)
 
 ### Coding Interview Workspace
 ![Interview Workspace](assets/screenshots/interview-interface.png)
