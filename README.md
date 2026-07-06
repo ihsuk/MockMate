@@ -2,7 +2,15 @@
 
 MockMate AI is a full-stack, enterprise-grade application designed to simulate real-world technical interviews. It allows candidates to practice answering both conceptual and coding questions verbally and programmatically, receiving instant, detailed AI-driven evaluation on their performance, technical accuracy, and communication skills.
 
+## Screenshots
 
+### Coding Interview Workspace
+![Interview Workspace](assets/screenshots/interview-interface.png)
+
+### Performance Review and Analytics
+![Performance Analysis](assets/screenshots/review-analysis.png)
+
+---
 
 ## Key Features
 
